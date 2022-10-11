@@ -5,8 +5,16 @@
 Imagine you are building a shopping cart. Write some documentation on the data types that you would need to complete your shopping experience. How did you arrive at your choices?
 
 String: a set of characters, that reside between single or double quotes.
+
 Number: integer, negative, decimal, etc.
+
 Booling: True/False.
+
+Object: key-value pairs of collection of data.
+
+Underfined: a variable without a value.
+
+Null: denotes a null value.
 
 ## Rubric
 
