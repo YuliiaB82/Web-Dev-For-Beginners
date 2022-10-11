@@ -16,6 +16,8 @@ Underfined: a variable without a value.
 
 Null: denotes a null value.
 
+![shopping-cart](shopping-cart.png)
+
 ## Rubric
 
 | Criteria | Exemplary                                                                   | Adequate                    | Needs Improvement           |
