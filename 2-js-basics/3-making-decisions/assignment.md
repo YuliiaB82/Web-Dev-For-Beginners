@@ -21,16 +21,25 @@ Given the following array `allStudents` representing all students and their grad
 > TIP, use a for-loop and if...else and comparison operators:
 
 ```javascript
-let allStudents = [
-  'A',
-  'B-',
-  1,
-  4,
-  5,
-  2
-]
+let allStudents = ["A", "B-", 1, 4, 5, 2];
 
 let studentsWhoPass = [];
+```
+
+https://codepen.io/Blahovistna/pen/xxjNrRo?editors=0012
+
+```javascript
+let allStudents = ["A", "B-", 1, 4, 5, 2];
+
+let studentsWhoPass = [];
+
+for (let i = 0; i < allStudents.length; i++) {
+  if (allStudents[i] < 3 && allStudents[i] != "C-") {
+  } else {
+    studentsWhoPass.push(allStudents[i]);
+  }
+}
+console.log(studentsWhoPass);
 ```
 
 ## Rubric
