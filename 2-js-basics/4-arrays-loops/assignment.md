@@ -15,6 +15,12 @@ for (i=1; i<=20; i++) {
   }
 }
 ```
+or
+```
+for (i=0; i<=20; i+=3) {
+  console.log(i);
+}
+```
 
 ## Rubric
 
